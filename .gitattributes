@@ -1,2 +1,2 @@
-* linguist-vendored
-*.py linguist-vendored=false
+* web-scraper-vendored
+*.py web-scraper-vendored=false
